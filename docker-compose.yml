@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  testwormhole:
+    build: .
+    container_name: 'test'
+    restart: 'always'
