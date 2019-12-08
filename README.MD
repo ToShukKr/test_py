@@ -1,1 +1,1 @@
-щщщщщщщщщщщщщ
+ooooooooooooooooooooo
